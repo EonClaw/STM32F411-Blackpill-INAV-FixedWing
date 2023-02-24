@@ -69,8 +69,8 @@ ImpulseRC Driver Fixer
 
 Install STM32 VCP Drivers (COM mode)
 
-    STM32 Virtual Com Port driver   (Windows)
-    STM32 Virtual Com Port driver X64  (Windows)
+    http://www.mateksys.com/downloads/fc/stm32_vcpDriver.zip   (Windows)
+    http://www.mateksys.com/downloads/fc/STM32-VirtualCOM-Dvr-64bit.exe (Windows 64-bit)
     PC devices manager should show “STMicroelectronics Virtual COM Port (COMxx)” if VCP drivers is installed successful.
      “FS Mode” is not suitable.
     If PC drivers manager doesn’t show right COM port,  uninstall it.
