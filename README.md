@@ -23,3 +23,6 @@ Connect the FC USB to computer while holding the boot button in.
     Click “Start Programming”
     After programming,  unplug USB and plug USB back in. FC will boot and run in normal COM mode.
 
+![My Remote Image](https://github.com/EonClaw/BlackpillTE-INAV-FixedWing-/blob/main/stm32CubeProg-1.jpg?dl=0)
+
+![My Remote Image](https://github.com/EonClaw/BlackpillTE-INAV-FixedWing-/blob/main/stm32CubeProg-2.jpg?dl=0)
