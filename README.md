@@ -1,6 +1,10 @@
 # BlackpillTE-INAV (FixedWing)
 DIY Flight Controller and Firmware for Fixed Wing UAVs
 
+* 108Mhz STM32F411CEU6
+* MPU6500
+* Magnetometer, Barometer, Rangefinder, Air speed
+* GPS
 * 2x UARTs, 2x Softserial, 1x I2C
 * 2x Motors, 5x Servos Outputs
 * SDCard Blackbox
