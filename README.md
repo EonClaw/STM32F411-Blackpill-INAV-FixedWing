@@ -1,6 +1,12 @@
 # BlackpillTE-INAV (FixedWing)
 DIY Flight Controller and Firmware for Fixed Wing UAVs
 
+* 2x UARTs, 2x Softserial, 1x I2C
+* 2x Motors, 5x Servos Outputs
+* SDCard Blackbox
+* LED_strip
+* PINIO1 and PINIO2
+
 
 Flashing BF/INAV/Ardu firmware with STM32CubeProgrammer
 
