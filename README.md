@@ -5,7 +5,7 @@ DIY Flight Controller and Firmware for Fixed Wing UAVs
 * MPU6500
 * Magnetometer, Barometer, Rangefinder, Air speed
 * GPS
-* 2x UARTs, 2x Softserial, 1x I2C
+* 2x UARTs, 2x Softserials, 2x SPIs, 1x I2C
 * 2x Motors, 5x Servos Outputs
 * SDCard Blackbox
 * LED_strip
