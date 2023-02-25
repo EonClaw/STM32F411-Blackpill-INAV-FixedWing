@@ -2,12 +2,14 @@
 DIY Flight Controller and Firmware for Fixed Wing UAVs
 
 * 108Mhz STM32F411CEU6
-* MPU6500
-* Magnetometer, Barometer, Rangefinder, Air speed
-* GPS
+* IMU: MPU6500/BMI160
+* MAG: HMC5883/QMC5883
+* BARO: MS5611/BMM280
+* Rangefinder, Airspeed
+* GPS: BN220T
 * 2x UARTs, 2x Softserials, 2x SPIs, 1x I2C
-* 2x Motors, 5x Servos Outputs
-* SDCard Blackbox
+* 2x Motors, 4x Servos Outputs
+* Blackbox SDCard
 * LED_strip
 * PINIO1 and PINIO2
 
