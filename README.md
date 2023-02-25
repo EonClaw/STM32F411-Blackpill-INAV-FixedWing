@@ -1,4 +1,4 @@
-# BlackpillTE-INAV (FixedWing)
+# Blackpill-INAV (FixedWing)
 DIY Flight Controller and Firmware for Fixed Wing UAVs
 
 * 108Mhz STM32F411CEU6
