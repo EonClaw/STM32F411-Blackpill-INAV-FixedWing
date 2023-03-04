@@ -1,20 +1,25 @@
 # Blackpill-INAV (FixedWing)
-DIY Flight Controller and Firmware for Fixed Wing UAVs
+DIY Flight Controller Firmware for Fixed Wing UAVs
 
-* 108Mhz STM32F411CEU6
+* STM32F411CEU6 @ 108Mhz 
+* 2x UARTs, 1x Softserial, 2x SPIs, 1x I2C
+* 1x Motor, 7x Servo Outputs
+* Blackbox SDCard
+* LED_Strip
+* PINIO1
+* BEEPER
+
 * IMU: MPU6500/BMI160
 * MAG: HMC5883/QMC5883
 * BARO: MS5611/BMM280
 * Rangefinder, Airspeed
 * GPS: BN220T
-* 2x UARTs, 2x Softserials, 2x SPIs, 1x I2C
-* 2x Motors, 4x Servos Outputs
-* Blackbox SDCard
-* LED_strip
-* PINIO1 and PINIO2
+————————————————————————————————
+————————————————————————————————
 
 
-————————————————————————————————-
+
+
 
 Flashing BF/INAV/Ardu firmware with STM32CubeProgrammer
 
@@ -22,7 +27,7 @@ https://www.st.com/en/development-tools/stm32cubeprog.html
 
 You may download Windows version from here  en.stm32cubeprg-win64_v2.9.0.zip
 
-————————————————————————————————-
+
 
 Make sure DFU driver has been installed. Check out “Install DFU Drivers” in this page
 
