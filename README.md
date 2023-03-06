@@ -13,7 +13,7 @@ inav_6.0.0_RC3_BLACKPILL_PLANE_SS1_SD_LED_1M3S_ADC2-108mhz.hex
 
 Use Configurator RC4
 
-![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-PLANE-inav.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/ianv6rc3onrc4.png?dl=0)
 
 HOOKUP DIAGRAM V3
 ![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
