@@ -1,6 +1,8 @@
 # Blackpill-INAV (FixedWing)
 Flight Controller Firmware for Fixed Wing UAVs
 
+inav_6.0.0_RC2_BLACKPILL_PLANE_SS1_SD_LED_1M3S_ADC2-108mhz.hex
+
 * STM32F411CEU6 @ 108Mhz 
 * 2x UARTs, 1x Softserial, 2x SPIs, 1x I2C, 2x ADC
 * 1x Motor, 7x Servo Outputs
