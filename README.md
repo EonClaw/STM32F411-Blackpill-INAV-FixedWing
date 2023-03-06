@@ -1,7 +1,7 @@
 # Blackpill-INAV (FixedWing)
 Flight Controller Firmware for Fixed Wing UAVs
 
-inav_6.0.0_RC3_BLACKPILL_PLANE_SS1_SD_LED_1M3S_ADC2-108mhz.hex
+inav_6.0.0_RC3_BLACKPILL_PLANE_108.hex
 
 * STM32F411CEU6 @ 108Mhz 
 * 2x UARTs, 1x Softserial, 2x SPIs, 1x I2C, 2x ADC
@@ -42,4 +42,3 @@ All firmwares are published under a Creative Commons Attribution-NonCommercial-S
         Attribution. — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
         NonCommercial. — You may not use the material for commercial purposes.
         ShareAlike. — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-
