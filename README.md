@@ -11,7 +11,7 @@ inav_6.0.0_RC2_BLACKPILL_PLANE_SS1_SD_LED_1M3S_ADC2-108mhz.hex
 * PINIO1
 * BEEPER
 
-![My Remote Image](https://github.com/EonClaw/10Dollar-Flight-Controller-STM32F411CEU6/blob/main/images/blackpill-fc-pinout-LARGE-rev3-QUAD-inav.png?dl=0)
+![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-PLANE-inav.png?dl=0)
 
 HOOKUP DIAGRAM V3
 ![My Remote Image](https://github.com/EonClaw/STM32F411-Blackpill-INAV-FixedWing/blob/main/blackpill-fc-pinout-LARGE-rev3-FixedWing.png?dl=0)
